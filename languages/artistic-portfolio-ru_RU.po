@@ -1,0 +1,213 @@
+# Translation of Plugin - Artistic Portfolio in Russian
+# This file is distributed under the same license as the Themes - Artistics package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-04-05 20:13+0300\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2);\n"
+"X-Generator: Poedit 2.0\n"
+"Project-Id-Version: Themes - Artistic\n"
+"POT-Creation-Date: \n"
+"Language-Team: \n"
+"Last-Translator: \n"
+"Language: ru\n"
+
+#. Description of the plugin/theme
+msgid ""
+"Looking for a tool for the best demonstration of Yourself as a very talented, creative and "
+"original person can be a bit disappointing, since you can lose the direction or just forgot "
+"the real aim of your search... but! Sometimes you can be so lucky and find a great solution "
+"for all your needs! You can find something, which can help you to present you as you are. "
+"What, if you need only a couple steps to complete the fullfillment of your desire? So, please "
+"let your Mechanism of Gladness and Fountain of Creativity run and work in full power with the "
+"theme \"Artistic\" for your website on Wordpress! Everybody can keep a blog, but not all of "
+"them can keep it as you. Let Artistic theme and its design elements highlight all your great "
+"characters and cool thoughts. Unusual header of the site can provide you to add slideshow to "
+"immediately present your unique works for everyone who visits your site; also the \"zest\" of "
+"your style can always be displayed on your site, which is possible thankful to ability to "
+"select your own background picture. A Preview of all your articles looks so intriguing, so "
+"almost all visitors will not be able to stop reading your texts. Are you a Photographer, "
+"Artist, Model or, probably, Collector of Unique things? Do you think that this theme should "
+"mark all the Expressiveness and the Individuality of your work, don't you?"
+msgstr ""
+"В поисках инструмента для подачи себя как человека творческого и оригинального можно сбиться с "
+"пути, набрести не на то, а можно… найти то, что покажет Вас и Вашу деятельность такими, как "
+"нужно, как есть на самом деле! Что, если до воплощения ваших идей в жизнь осталась всего пара "
+"шагов? Запускайте же свои механизмы радости, позвольте Вашему фонтану креативности работать во "
+"всю мощь вместе с темой Artistic для вашего блога на Wordpress! Блог вести может каждый, но "
+"далеко не каждый ведет свой блог так, как Вы. Позвольте же себе подчеркнуть это с помощью "
+"элементов дизайна, который предложен в Artistic. Нестандартная «шапка» сайта позволяет "
+"добавить слайдшоу для обеспечения незамедлительного просмотра Ваших неповторимых работ каждым, "
+"кто зайдет на Ваш сайт; а возможность выбора фонового изображения - как раз то, что нужно, "
+"чтобы «изюминка» Вашего стиля всегда была на виду. Предпросмотр статей Вашего блога так и "
+"завлекает прочесть дальше, ведь никогда не знаешь, что может ждать впереди. Вы Фотограф, "
+"Художник, Модель или, может быть, Коллекционер? Так не кажется ли Вам, что эта тема призвана "
+"подчеркнуть всю выразительность и индивидуальность Вашего увлечения?"
+
+#. Theme Name of the plugin/theme
+msgid "Artistic Portfolio"
+msgstr "Artistic Портфолио"
+
+#: artistic-portfolio.php:19 artistic-portfolio.php:29
+msgid "Portfolio items"
+msgstr "Портфолио"
+
+#: artistic-portfolio.php:20
+msgid "Portfolio item"
+msgstr "Работа портфолио"
+
+#: artistic-portfolio.php:21 artistic-portfolio.php:22
+msgid "Add item"
+msgstr "Добавить работу в портфолио"
+
+#: artistic-portfolio.php:23
+msgid "Edit item"
+msgstr "Обновить работу в портфолио"
+
+#: artistic-portfolio.php:24
+msgid "New item"
+msgstr "Новая работа в портфолио"
+
+#: artistic-portfolio.php:25
+msgid "View item"
+msgstr "Просмотр работы в портфолио"
+
+#: artistic-portfolio.php:26
+msgid "Search item"
+msgstr "Поиск работы в портфолио"
+
+#: artistic-portfolio.php:27
+msgid "Nothing found"
+msgstr "Ничего не найдено"
+
+#: artistic-portfolio.php:28
+msgid "Nothing found in trash"
+msgstr "Ничего не найдено в корзине"
+
+#: artistic-portfolio.php:123
+msgid "Portfolio"
+msgstr "Портфолио"
+
+#: artistic-portfolio.php:62 artistic-portfolio.php:76
+msgid "Portfolio categories"
+msgstr "Категории портфолио"
+
+#: artistic-portfolio.php:63
+msgid "Portfolio category"
+msgstr "Категория"
+
+#: artistic-portfolio.php:64
+msgid "Search portfolio category"
+msgstr "Поиск категории"
+
+#: artistic-portfolio.php:66
+msgid "All portfolio categories"
+msgstr "Все категории портфолио"
+
+#: artistic-portfolio.php:67
+msgid "Parent portfolio category"
+msgstr "Родительская категория"
+
+#: artistic-portfolio.php:68
+msgid "Parent portfolio category: "
+msgstr "Родительская категория: "
+
+#: artistic-portfolio.php:69
+msgid "Edit portfolio category"
+msgstr "Редактировать категорию"
+
+#: artistic-portfolio.php:70
+msgid "Update portfolio category"
+msgstr "Обновить категорию"
+
+#: artistic-portfolio.php:71
+msgid "Add new portfolio category"
+msgstr "Добавить новую категорию портфолио"
+
+#: artistic-portfolio.php:72
+msgid "New portfolio category"
+msgstr "Новая категория"
+
+#: artistic-portfolio.php:74
+msgid "Add/Remove portfolio categories"
+msgstr "Добавить/Удалить категории портфолио"
+
+#: artistic-portfolio.php:88 artistic-portfolio.php:102
+msgid "Portfolio tags"
+msgstr "Портфолио теги"
+
+#: artistic-portfolio.php:89
+msgid "Portfolio tag"
+msgstr "Тег"
+
+#: artistic-portfolio.php:90
+msgid "Search portfolio tags"
+msgstr "Поиск тегов"
+
+#: artistic-portfolio.php:91
+msgid "Popular portfolio tags"
+msgstr "Популярные теги"
+
+#: artistic-portfolio.php:92
+msgid "All portfolio tags"
+msgstr "Все теги"
+
+#: artistic-portfolio.php:95
+msgid "Edit portfolio tag"
+msgstr "Редактировать Тег"
+
+#: artistic-portfolio.php:96
+msgid "Update portfolio tag"
+msgstr "Обновить Тег"
+
+#: artistic-portfolio.php:97
+msgid "Add portfolio tag"
+msgstr "Добавить Тег"
+
+#: artistic-portfolio.php:98
+msgid "New portfolio tag"
+msgstr "Новый Тег"
+
+#: artistic-portfolio.php:99
+msgid "Please separate tags by comma"
+msgstr "Разделите теги запятыми"
+
+#: artistic-portfolio.php:100
+msgid "Add/Remove portfolio tags"
+msgstr "Добавить/Удалить теги портфолио"
+
+#: artistic-portfolio.php:101
+msgid "Choose from the most popular portfolio tags"
+msgstr "Выбрать из наиболее популярных тегов"
+
+#: artistic-portfolio.php:148
+msgid "Upload portfolio images"
+msgstr "Загрузить изображения портфолио"
+
+#: artistic-portfolio.php:162
+msgid "You have uploaded the following number of files: "
+msgstr "Вы загрузили следующее количество файлов: "
+
+#: artistic-portfolio.php:163
+msgid "Upload your images here."
+msgstr "Загрузите ваши изображения здесь."
+
+#: artistic-portfolio.php:199
+msgid "There was an error uploading your file. The error is: "
+msgstr "Произошла ошибка во время загрузки файла. Ошибка: "
+
+#: artistic-portfolio.php:208
+msgid "The file type that you've uploaded is not supported. Please upload jpg, jpeg, png or gif."
+msgstr ""
+"Формат загруженного файла не поддерживается. Пожалуйста, загрузите jpg, jpeg, png или gif."
+
+#. Author of the plugin/theme
+msgid "Shalaeva"
+msgstr "Shalaeva"
+
+#. Theme URI of the plugin/theme
+msgid "https://withzest.ru/watercolor-story/"
+msgstr "https://withzest.ru/watercolor-story/"
